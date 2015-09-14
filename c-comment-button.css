@@ -1,0 +1,6 @@
+#c-comment-button{
+    background-image: url(icon-sprite.png);
+}
+#c-comment-button:hover{
+    background-position: 0px -23px;   
+}
