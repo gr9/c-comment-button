@@ -4,7 +4,7 @@
     "description": "Inspired by Dreamweaver's code editor.  Allows you to apply/remove c-style comments to/from the currently selected text without touching your keyboard.  C-style comments are the same /* ... */ format that is used in c, c++, Objective-C, PHP, Java, JavaScript, C#, and CSS",
     "homepage": "https://github.com/gr9/c-comment-button",
     "keywords":["c","c++","Objective-C", "PHP", "Java", "JavaScript", "CSS", "c#", "comment", "dreamweaver"],
-    "version": "0.1",
+    "version": "1.0.1",
     "author": "Reece Griffin <reece@reecegriffin.com> (http://www.reecegriffin.com)",
     "license": "None - steal this code!",
     "engines": {
